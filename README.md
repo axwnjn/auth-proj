@@ -18,3 +18,16 @@ The initial structure came from a Udemy course, but the implementation of logic 
 - PostgreSQL (`pg`)  
 - Passport.js (Local & Google OAuth Strategy)  
 - bcrypt  
+
+
+<div align="center">
+  <h2>Register and Login Page</h2>
+  <img src="static/Register.png" width="45%" alt="Register"/>
+  <img src="static/Login.png" width="45%" alt="Login"/>
+</div>
+
+<div align="center">
+  <h2>Secret & Submit Page</h2>
+  <img src="static/Secret.png" width="45%" alt="Secret"/>
+  <img src="static/Submit.png" width="45%" alt="Submit"/>
+</div>
